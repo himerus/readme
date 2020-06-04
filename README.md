@@ -8,7 +8,7 @@
 * Creating this document has helped, and will continue to help to identify and refine my own thoughts and values.
 
 # UPDATE June 2020
-> As we know, with COVID-19 keeping us all in a WFH capacity, and many of us dealing with children of various ages, I have some basic information of my schedule. 
+> With COVID-19 keeping us all in a WFH capacity, and many of us dealing with children of various ages, I have some basic information/changes to my normal daily schedule. 
 
 * My wife, Michelle and I both WFH and are juggling our 2.5 year old, Lincoln.
 * I take the morning shift with him so it is **very** hard for me to take calls prior to 11a.m. Eastern. 
