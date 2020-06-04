@@ -7,6 +7,16 @@
 * This documentation will help you understand my expectations better and help us work more effectively together.
 * Creating this document has helped, and will continue to help to identify and refine my own thoughts and values.
 
+# UPDATE June 2020
+> As we know, with COVID-19 keeping us all in a WFH capacity, and many of us dealing with children of various ages, I have some basic information of my schedule. 
+
+* My wife, Michelle and I both WFH and are juggling our 2.5 year old, Lincoln.
+* I take the morning shift with him so it is **very** hard for me to take calls prior to 11a.m. Eastern. 
+* I have recently been basically working West Coast hours with a break for dinner, and back to it in the evening in order to meet my obligations. 
+* This means my primary "working hours" are from ~11am Eastern to ~5pm Eastern. 
+  * Scheduling calls with me inside this window is ideal.
+  * If something has to be outside this window, I will do my best to coordinate with the wife, or I may have a little one in tow. 
+
 [red]:https://img.shields.io/static/v1.svg?label=&message=RED&color=red&style=flat-square
 [orange]:https://img.shields.io/static/v1.svg?label=&message=ORANGE&color=orange&style=flat-square
 [green]:https://img.shields.io/static/v1.svg?label=&message=GREEN&color=brightgreen&style=flat-square
