@@ -13,7 +13,8 @@
 * My wife, Michelle and I both WFH and are juggling our 2.5 year old, Lincoln.
 * I take the morning shift with him so it is **very** hard for me to take calls prior to 11a.m. Eastern. 
 * I have recently been basically working West Coast hours with a break for dinner, and back to it in the evening in order to meet my obligations. 
-* This means my primary "working hours" are from ~11am Eastern to ~5pm Eastern. 
+* This means my "working hours" fluctuate between 6am to 10pm (or later) Eastern.
+* This means my primary "taking calls hours" are from ~11am Eastern to ~5pm Eastern. 
   * Scheduling calls with me inside this window is ideal.
   * If something has to be outside this window, I will do my best to coordinate with the wife, or I may have a little one in tow. 
 
