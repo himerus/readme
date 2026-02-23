@@ -1,105 +1,172 @@
-# Hi, I'm Jake
-> This is a living document and ~~still~~ always a work in progress. I got this idea from a [co-worker](https://critter.blog/working-with-me/), who adapted it from [other various resources](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe). If you are a Manager of others, or act as a technical lead on projects, I highly recommend setting out a similar document to help set expecatations with your team.
+# Working With Jake Strawn
 
-**A few reasons this exists:**
+**Last updated:** February 2026
+**GitHub:** [himerus](https://github.com/himerus)
+**LinkedIn:** [jakestrawn](https://linkedin.com/in/jakestrawn)
 
-* I'm a believer in documentation. It helps your team, it helps the client, it's just helpful, plain and simple. 
-* This documentation will help you understand my expectations better and help us work more effectively together.
-* Creating this document has helped, and will continue to help to identify and refine my own thoughts and values.
+---
 
-# UPDATE June 2020
-> With COVID-19 keeping us all in a WFH capacity, and many of us dealing with children of various ages, I have some basic information/changes to my normal daily schedule. 
+## What This Is
 
-* My wife, Michelle and I both WFH and are juggling our 2.5 year old, Lincoln.
-* I take the morning shift with him so it is **very** hard for me to take calls prior to 11a.m. Eastern. 
-* I have recently been basically working West Coast hours with a break for dinner, and back to it in the evening in order to meet my obligations. 
-* This means my "working hours" fluctuate between 6am to 10pm (or later) Eastern.
-* This means my primary "taking calls hours" are from ~11am Eastern to ~5pm Eastern. 
-  * Scheduling calls with me inside this window is ideal.
-  * If something has to be outside this window, I will do my best to coordinate with the wife, or I may have a little one in tow. 
+This is not a resume. You can find the career summary elsewhere. This is a document about how I actually work — what I expect, what I value, what will make us a good team, and what will make us a bad one. If you're considering working with me in a senior architecture or technical leadership capacity, read this first.
 
-[red]:https://img.shields.io/static/v1.svg?label=&message=RED&color=red&style=flat-square
-[orange]:https://img.shields.io/static/v1.svg?label=&message=ORANGE&color=orange&style=flat-square
-[green]:https://img.shields.io/static/v1.svg?label=&message=GREEN&color=brightgreen&style=flat-square
+If something in here doesn't fit, that's useful information for both of us. I'd rather know now.
 
-## My role as a Software Architect / Technical Lead
+---
 
-I am here to make sure our team is successful, happy, and working on the things that are most important to help our customers, improve our products, and improve our business. More granularly:
+## The Short Version
 
-* I am here to make sure you are both successful and happy: I want you to improve your technical skills, grow your career, enjoy your work, and believe in both our team's and our company's mission.
-* I am here to make sure our team is successful and pointed in the same direction. 
-* I am here to make sure our team is getting what we need. I'm also here to help make sure we are working on the right things, which is not necessarily everything we're asked to do.
-* Sometimes I write code for the project(s) at hand!
+25+ years building production software and leading engineering teams. Shipped code that millions of people have used. Built design systems. Built AI orchestration platforms. Built legal technology under circumstances that would have stopped most people cold. I write the code. I make the architectural calls. I lead the teams. I don't separate those things.
 
-> These are in approximate order of importance. If you are not successful and happy, our team is not successful (or happy). If our team is struggling, writing code will most likely not be my top priority.
+I am direct, technically rigorous, and have a finely calibrated bullshit detector. If you deal with me honestly, you'll have an engaged, committed collaborator who will work his ass off and fight for the right outcome. If you manage my perception instead of informing me, you will lose that entirely. More on that below.
 
-**Additionally:** My job is not to tell you exactly what to do and how to do it. It is also not to be the "official decision maker" for our team. **However, I am accountable for the decisions the team makes, even if I’m not the one making them most of the time.**
+---
 
-## My role as a Manager
+## What I've Built (And What It Says About How I Work)
 
-> I'm not here to manage you. I'm here to provide you with management. - *J Still*
+### The Legal Technology Platform
 
-* I am here to make sure you are both successful and happy: I want you to improve your technical skills, grow your career, enjoy your work, and believe in both our team's and our company's mission.
-* I am here to support you when you need to vent over a particularly frustrating piece of code, a difficult client, or even frustration with a co-worker or company policy. After you've had an opportunity to vent, I should be able to help provide context and perspective if possible, and sometimes, vent right there with you.
-* I'm here to help you develop, refine and execute a Professional Development plan that will help you gain perspective on your own goals, and lay out a clear plan of action we can refer to and set appropriate and achievable goals. 
+For years I've been in the middle of a legal situation that isn't close to over. The stakes are as high as personal stakes get.
 
-## My Assumptions
+While that was happening, I built production software. Not a diary. Not a weekend side project. A real system — multi-agent orchestration, document analysis pipelines, complex search and visualization UI, and specialized AI coordination across thousands of pages of source material.
 
-**You’re good at your job.** You wouldn’t be here if you weren’t. If it feels like I’m questioning you it’s because I’m either: a) Trying to gather context. Or b) Trying to be a sounding board and rubber duck.
+I am telling you this not because I want your sympathy. I'm telling you because it answers the question that matters in senior technical leadership: what do you actually do when the pressure is at maximum and the stakes are real?
 
-**I may not be good at your job.** You might understand something better than I. I’ll work to provide necessary context and ask questions to help you vet your ideas but I won’t override you.
+I build. I ship. I solve the problem in front of me with the best tools available. That's who I am under pressure.
 
-**You’ll let me know if you can’t do your job.** One of my main responsibilities is ensuring that you’re set up for success. Occasionally things slip through the cracks and I won’t know I’m letting you down.
+---
 
-**You feel safe debating with me.** I find that ideas improve by being examined from all angles. If it sounds like I’m disagreeing I’m most likely just playing devil’s advocate. This does rely on us being able to have a safe debate.
+### Clarity House Press Platform (The Side Project)
 
-## How can you help me?
+On the side — genuinely on the side, not the headline — I founded a publishing platform for narcissistic abuse recovery resources. Currently 11 book projects in production. The tech I built for it:
 
-**Do amazing work.** This is the expectation. Let me know if there is something preventing you from accomplishing this.
+- **350+ specialized AI agents** organized across engineering, clinical, legal, marketing, and operations functions. Agent management dashboard tracking specializations, performance, and deployment status.
+- **Full Turborepo monorepo** managing multiple apps and shared packages.
+- **Multi-format book production pipeline** — manuscript through LaTeX through print-ready PDF.
+- **Business management infrastructure** — revenue modeling, market analysis, cost tracking, strategic planning tools.
 
-**Disagree with me.** The best solutions comes from a healthy level of debate. We need to be able to separate our ideas from our egos . I’ll challenge your ideas with the goal of coming to the best possible solution, I hope you’ll challenge mine.
+I also wrote one of the books: [*Surviving the Storm: When the Court Takes Your Children — Managing CPTSD*](https://www.amazon.com/dp/B0GG7GD4QJ?tag=clarityhousepress-20).
 
-**Tell me when I screw up.** This is very important. I screw up and sometimes don’t notice. I need to know or I’ll likely do it again.
+The platform is impressive. It's not the point. The point is that I built substantial, production-grade infrastructure as a side project, while managing a high-stakes personal situation and raising my son. This is just how I operate.
 
-**Communicate.** One of my jobs is to provide context. Are you missing some? Let me know and I’ll fill you in or go find out.
+---
 
-**Be Responsible.** As a developer, you are responsible for your code and tasks on a daily basis, but more importantly you are responsible in part for the success of your team. If your team is failing, or you feel you are failing your team, I am here to help. 
+### The Career History
 
-**Ownership.** You are a professional, and have been asked to complete a task. It is up to you to own that task from start to finish, and enable  others involved in a task pipeline to succeed. That could be accurate documentation for testing your work, automated testing, or simply following up to ensure it was completed as expected.
+**Drupal Community (2010–2016):**
+- **Omega Theme** — Lead maintainer and architect (himerus on drupal.org). One of the most widely-used responsive base themes in Drupal 7 and 8. Downloaded millions of times. Built on Sass, responsive grids, and mobile-first methodology before any of that was standard practice.
+- **Alpha Theme** — The predecessor. Pioneered modular, grid-based theming in Drupal.
+- **"The Definitive Guide to Drupal 7"** (Apress, 2011) — Co-authored the theming and frontend chapters. Thousands of developers learned to build Drupal from those pages.
 
-**Critical Thinking.** Please don't approach me saying I found an issue with X. What do I do?! Part of your job is being asked to take leaps of judgement, and at the bare minimum come to me with a problem, followed by multiple possible solutions that we can discuss or debate. 
+**Phase2 Technology — Principal Engineer, Frontend (2016–2020):**
+- Led frontend architecture and engineering teams for large-scale enterprise clients, including healthcare systems.
+- **Outline Design System** — Created and architected one of the earliest production design systems built on native Web Components. Lit 2, Storybook, monorepo. Open source at phase2/outline. This was before Web Components were fashionable.
+- Established frontend engineering standards. Mentored engineers across multiple client teams. Bridged frontend and backend architecture decisions when the project required it.
 
-## Communicating With Me
-* Expect a slow response via email.
-* Expect a quick(er) response via Slack.
-* If we have a 1:1 scheduled you will not attend, please let me know as soon as you know so I can prioritze other work.
-* If we have a call on the calendar, and you plan to attend, hit the accept button.
+**Independent / Consulting (2020–present):**
+- Architecture, technical leadership, and consulting engagements.
+- Built the legal technology and publishing platforms described above.
+
+---
+
+## On Honesty
+
+This section matters. Read it carefully.
+
+Over the years I've developed precise pattern recognition for when a story doesn't hold together — when the version of events I'm being given doesn't match the data in front of me, when someone is managing my perception instead of informing me, when "everything is fine" is being said in a context where everything is clearly not fine.
+
+I am not describing a chip on my shoulder. I'm describing a working style.
+
+**What this means practically:**
+
+- If you come to me with bad news, told honestly, I will work the problem with you. I won't shoot the messenger.
+- If you tell me something is fine when it isn't, I will notice. The pattern recognition doesn't turn off.
+- If your story changes between meetings and you don't acknowledge that it changed, I will notice.
+- If you're managing my perception of a situation rather than informing me about it, I will notice — and it will affect our working relationship.
+- I will not call you a liar in a meeting. But I will ask questions until the inconsistency surfaces, and I will remember.
+
+The upside is significant: if you are honest with me — especially when the news is bad, especially when the answer is "I don't know yet" — you will have my full engagement and genuine loyalty. I don't need you to be perfect. I need you to be straight with me.
+
+That's the whole thing, really. The rest of this document is details.
+
+---
+
+## My Assumptions About You
+
+**You're good at what you do.** You wouldn't be in this role if you weren't. When I ask questions, I'm building context or thinking out loud — not auditing your competence.
+
+**You might know something I don't.** I've been doing this for 25 years but that doesn't mean I've seen everything. If you have expertise I lack, I want to hear it. I'll push back, but not to win — to make sure the idea holds up.
+
+**You'll tell me when something is wrong.** I cannot fix what I don't know about. If there's a problem, surface it. The only thing I can't work with is silence.
+
+**You can hold your ideas loosely.** Good debate makes ideas better. If I challenge your approach, I'm trying to find the failure mode before we're in production. Do the same to me.
+
+---
+
+## How You Can Help Me
+
+**Do excellent work.** That's the baseline. If something is preventing you from doing excellent work, that's a conversation we need to have.
+
+**Challenge my thinking.** I am wrong sometimes. I have blind spots. Tell me directly, bring your reasoning, and we'll figure it out. Being wrong in a meeting is better than being wrong in production.
+
+**Own your work end to end.** Ship it. Document it. Make sure the person after you in the pipeline can succeed. Ownership isn't just writing the code — it's the whole thing, start to finish.
+
+**Come to me with problems and options, not just problems.** "Here's the issue, here are three approaches, here's what I recommend" is what I want to hear. Do the thinking before you bring it to me.
+
+**Tell me when I screw up.** I will screw up. I might not notice. Tell me.
+
+---
 
 ## My Schedule
-I **try** to work a 9am - 5pm schedule Eastern time. However, my responsibilities to various projects can lead me to work hours well outside that schedule, and you may find yourself being mentioned/pinged in Slack at all hours and even on the weekend. 
 
-> **I do not expect a response from you outside of your working hours.**
- 
-Do not hesitate to message me at any point, day or night. I will respond when I am available. You never know, I may just be up at 10:30 at night burning some pre-midnight oil and be ready to respond! Otherwise, I'll get back to you as soon as I can during my standard working hours. 
+I generally work 9am–6pm Eastern. You may see a message from me at night — that's on me, not an expectation of you.
 
-## Performance Assessments
+One more thing: I have a son. I pick him up from school some days. Occasionally I will drop off a conversation mid-afternoon and pick it up an hour later. I'm reachable when it matters, and I'll let you know if something comes up that affects my availability. I'm not apologizing for it.
 
-I follow a Green / Orange / Red performance assessment and communication model. *My goal is for you to always know where you’re at.* If you ever feel you don’t know, **just ask** me.
+---
 
-| Status   | Description |
-|:-----------:|-----------|
-| ![green] | There might be things to improve, or there might not. If nothing ever changed, it’s all good. |
-| ![orange] | There are one or more behaviors that, if left unchecked in the long term, will not be sustainable. Something needs to change. |
-| ![red] | There is a significant problem, with a timebox, and we have explicitly talked about both the problem and the timebox. |
+## Communication
 
-> A status of **orange** sounds terrifying. It shouldn’t be. It is easily recoverable! Even a **red** status is recoverable. Recovering from **orange** (or **red**) builds a lot of trust. You’ve proven that you accept feedback, acknowledge your role in the situation, and are willing and capable of changing, growing, and improving. **That is HUGE.**
+**Urgent:** Slack or direct message. I respond within hours during working hours.
 
-## My Questions For You
+**Non-urgent:** Email is fine. Give it a day or two.
 
-> If I've asked you to review this document, please take a few moments to respond to the following questions so I can best accomodate your goals and expectations.
+**Complex:** Schedule a call. Some conversations need real-time back and forth.
 
-* What are your preferred working hours?
-* What are you good at?
-* What are you bad at?
-* How do you want to receive feedback?
-* Anything else I should know for working with you?
+**Meetings:** Accept the invite or tell me early if you can't make it. Come with an agenda if the topic warrants it — meetings without a clear purpose are usually expensive conversations about nothing.
+
+---
+
+## Feedback
+
+I use a three-status system because people deserve to know where they stand.
+
+| Status | What It Means |
+|--------|---------------|
+| **Green** | We're good. There are always things to improve, but if nothing changed, there's no problem. |
+| **Orange** | There's a behavior or pattern that isn't sustainable and needs to change. It is fixable. |
+| **Red** | There is a real problem with a real timeline. We have explicitly talked about both. |
+
+Orange is not a crisis. Coming back from Orange builds more trust than never needing correction in the first place.
+
+If you want to know where you stand, ask me directly. I will tell you.
+
+---
+
+## What I Value
+
+**Honesty over comfort.** An uncomfortable truth will always win over a comfortable lie. Every time.
+
+**Results over activity.** I care about what ships. Hours logged and meetings attended are not the measure.
+
+**Ownership over blame.** When something breaks, I want to fix it and prevent it from breaking again.
+
+**Clarity over consensus.** I'll gather input. I'll debate. But when a decision needs to be made, someone makes it and owns it.
+
+**Teams over heroes.** The person who saves the day alone is also the person who created the dependency. A team that functions well doesn't need saving.
+
+---
+
+*If you got to this point and thought "ok, this is someone I can work with" — let's talk.*
+
+*If you got to this point and thought "this guy sounds like a handful" — that's also useful information, and I'd rather know now.*
