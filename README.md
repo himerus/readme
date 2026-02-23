@@ -53,19 +53,21 @@ The platform is impressive. It's not the point. The point is that I built substa
 
 ### The Career History
 
-**Drupal Community (2010–2016):**
-- **Omega Theme** — Lead maintainer and architect (himerus on drupal.org). One of the most widely-used responsive base themes in Drupal 7 and 8. Downloaded millions of times. Built on Sass, responsive grids, and mobile-first methodology before any of that was standard practice.
-- **Alpha Theme** — The predecessor. Pioneered modular, grid-based theming in Drupal.
-- **"The Definitive Guide to Drupal 7"** (Apress, 2011) — Co-authored the theming and frontend chapters. Thousands of developers learned to build Drupal from those pages.
+The through-line is independent consulting. I've worked as a contractor or independent operator for most of my 25+ years in this industry. I go deep with clients when the work warrants it. The longest of those engagements was Phase2 Technology, where I spent 13 years — starting as a contractor and eventually becoming a full-time employee. That detail matters: I'm not a job-hopper and I'm not a dilettante. When something is worth committing to, I commit.
 
-**Phase2 Technology — Principal Engineer, Frontend (2016–2020):**
-- Led frontend architecture and engineering teams for large-scale enterprise clients, including healthcare systems.
-- **Outline Design System** — Created and architected one of the earliest production design systems built on native Web Components. Lit 2, Storybook, monorepo. Open source at phase2/outline. This was before Web Components were fashionable.
-- Established frontend engineering standards. Mentored engineers across multiple client teams. Bridged frontend and backend architecture decisions when the project required it.
+**Phase2 Technology (2011–2024)**
 
-**Independent / Consulting (2020–present):**
-- Architecture, technical leadership, and consulting engagements.
-- Built the legal technology and publishing platforms described above.
+Thirteen years. Enterprise clients, healthcare systems, government work. I ran frontend architecture and led engineering teams across multiple concurrent client engagements. The work that defined that era:
+
+**Omega Theme** (himerus on drupal.org) — I was the lead maintainer and architect of one of the most widely-used responsive base themes in Drupal 7 and 8. Downloaded millions of times. Built on Sass, responsive grids, and mobile-first methodology before any of that was standard. If you built a Drupal site between roughly 2011 and 2016, there's a reasonable chance you used it or worked alongside someone who did.
+
+**"The Definitive Guide to Drupal 7"** (Apress, 2011) — I co-authored the theming and frontend chapters. Thousands of developers learned to build Drupal from those pages.
+
+**Outline Design System** — I created and architected one of the earliest production design systems built entirely on native Web Components. Lit 2, Storybook, monorepo architecture, fully open source at phase2/outline. This was before Web Components were fashionable. The patterns we established there are still relevant.
+
+**Currently: Independent**
+
+Building the platforms described above — AI orchestration, legal technology, publishing infrastructure. Same mode I've operated in for most of my career: architect, engineer, and decision-maker on the same work.
 
 ---
 
